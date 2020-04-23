@@ -1,0 +1,5 @@
+Solucion de :https://www.aceptaelreto.com/problem/statement.php?id=111
+
+Necesita nodejs en su maquina
+
+ejecute en consola: node index.js
